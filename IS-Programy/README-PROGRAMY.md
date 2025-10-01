@@ -1,3 +1,3 @@
 ## Popis programu
 
-**TO-DO**
+**TO-DO** yipe
