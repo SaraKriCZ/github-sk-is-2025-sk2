@@ -1,5 +1,6 @@
-﻿string again = "a";
-while (again == "a")
+﻿using System;
+    string again = "a";
+    while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("***************************************");
@@ -13,22 +14,23 @@ while (again == "a")
     //Console.Write("Zadejte první číslo řady: ")
     //int first = int.Parse(Console.ReadLine());
 
-    // Vstup hodnoty do programu, ale řešený lépe
-            Console.Write("Zadejte první číslo řady: ");
+              // Zadej první číslo
+            Console.Write("Zadejte první číslo řady (celé číslo): ");
             int first;
-            while (!int.TryParse(Console.ReadLine(), out first)) ;
+            while (!int.TryParse(Console.ReadLine(), out first))
             {
-            Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu");
+                Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
             }
 
-    // Zadej poslední číslo
+            // Zadej poslední číslo
             Console.Write("Zadejte poslední číslo řady (celé číslo): ");
             int last;
             while (!int.TryParse(Console.ReadLine(), out last))
             {
                 Console.Write("Nezadali jste celé číslo. Zadejte poslední číslo řady znovu: ");
             }
-    // Zadej poslední číslo
+            
+        // Zadej diferenci číslo
             Console.Write("Zadejte diferenci (celé číslo): ");
             int step;
             while (!int.TryParse(Console.ReadLine(), out step))
@@ -46,6 +48,20 @@ while (again == "a")
     Console.WriteLine("-----------------------------");
     Console.WriteLine("První číslo: {0}; Poslední číslo: {1}; Diference: {2}", first, last, step);
     Console.WriteLine("-----------------------------");
+
+    // Výpis číselné řady
+    Console.WriteLine();
+    Console.WriteLine("-----------------------------");
+    Console.WriteLine("Výpis číselné řady");
+
+    int current = first;
+    while (current <= last)
+    {
+        Console.WriteLine(current);
+        current = current + step; //přičtení diference 
+    }
+    
+
     
     Console.WriteLine();
     Console.WriteLine();
