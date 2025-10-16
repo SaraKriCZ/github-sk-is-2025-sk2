@@ -14,13 +14,27 @@ while (again == "a")
     //int first = int.Parse(Console.ReadLine());
 
     // Vstup hodnoty do programu, ale řešený lépe
-    Console.Write("Zadejte první číslo řady: ");
-    int first;
-    while (!int.TryParse(Console.ReadLine(), out first)) ;
-    {
-        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu");
-    }
+            Console.Write("Zadejte první číslo řady: ");
+            int first;
+            while (!int.TryParse(Console.ReadLine(), out first)) ;
+            {
+            Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu");
+            }
 
+    // Zadej poslední číslo
+            Console.Write("Zadejte poslední číslo řady (celé číslo): ");
+            int last;
+            while (!int.TryParse(Console.ReadLine(), out last))
+            {
+                Console.Write("Nezadali jste celé číslo. Zadejte poslední číslo řady znovu: ");
+            }
+    // Zadej poslední číslo
+            Console.Write("Zadejte diferenci (celé číslo): ");
+            int step;
+            while (!int.TryParse(Console.ReadLine(), out step))
+            {
+                Console.Write("Nezadali jste celé číslo. Zadejte diferenci znovu: ");
+            }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a,");
