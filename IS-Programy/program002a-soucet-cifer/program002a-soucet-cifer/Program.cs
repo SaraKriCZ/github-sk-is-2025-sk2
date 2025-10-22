@@ -11,7 +11,7 @@
     Console.WriteLine();
 
 
-
+    /*
      // Zadej první číslo
         Console.Write("Zadejte celé číslo: ");
         int number;
@@ -46,6 +46,38 @@
 
     Console.WriteLine();
     Console.WriteLine("Součet cifer čísla {0} je {1}", numberBackup, suma);
+*/
+    {
+        Console.Write("Zadejte celé číslo: ");
+        int cislo;
+        while (!int.TryParse(Console.ReadLine(), out cislo))
+        {
+            Console.Write("Nezadali jste celé číslo. Zadejte ho znovu: ");
+        }
+
+        // pokud je číslo záporné, změní ho na kladné
+        if (cislo < 0)
+        {
+            cislo = -cislo;
+        }
+
+        // převede číslo na text
+        string textCisla = cislo.ToString();
+        int soucet = 0;
+
+        // projde všechny znaky (cifry)
+        for (int i = 0; i < textCisla.Length; i++)
+        {
+            char znak = textCisla[i];
+            int cifra = znak - '0'; // převede znak na číslo
+            Console.WriteLine("Cifra na pozici {0} je {1}", i + 1, cifra);
+            soucet += cifra; //zkráceno soucet = soucet + cifra
+        }
+
+        Console.WriteLine();
+        Console.WriteLine("Součet cifer čísla je: {0}", soucet);
+    }
+
 
 
     Console.WriteLine();
