@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\bin\Debug\net9.0\program004e-nocni-obloha.exe
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\bin\Debug\net9.0\program004e-nocni-obloha.deps.json
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\bin\Debug\net9.0\program004e-nocni-obloha.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\bin\Debug\net9.0\program004e-nocni-obloha.dll
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\bin\Debug\net9.0\program004e-nocni-obloha.pdb
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.dll
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\refint\program004e-nocni-obloha.dll
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.pdb
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\program004e-nocni-obloha.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program004e-nocni-obloha\obj\Debug\net9.0\ref\program004e-nocni-obloha.dll
