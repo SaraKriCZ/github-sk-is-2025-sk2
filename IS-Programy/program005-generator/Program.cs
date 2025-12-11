@@ -50,7 +50,7 @@
     //kladná, záporná, nuly
     int negativeNumbs = 0;
     int positiveNumbs = 0;
-    int zeors = 0;
+    int zeros = 0;
 
     //sudá, lichá
     int evenNumbs = 0;
