@@ -82,7 +82,7 @@ while (again == "a")
         }
     }
     myStopwatch.Stop();
-    
+
     // Výpis seřazených čísel
     Console.WriteLine();
     Console.WriteLine("================================");    
@@ -99,7 +99,8 @@ while (again == "a")
     Console.WriteLine("Čas potřebný na seřazení čísel: {0}", myStopwatch.Elapsed);
 
     Console.WriteLine();
-    Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
-    again = Console.ReadLine();
+    Console.WriteLine();
+    Console.Write("Pro opakování programu stiskněte klávesu 'a', nebo jinou pro ukončení: ");
+    again = Console.ReadLine()!;
 
 }
