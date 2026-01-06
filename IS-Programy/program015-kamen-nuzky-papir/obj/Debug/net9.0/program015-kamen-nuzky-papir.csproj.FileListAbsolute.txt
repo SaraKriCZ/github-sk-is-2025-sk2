@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\bin\Debug\net9.0\program015-kamen-nuzky-papir.exe
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\bin\Debug\net9.0\program015-kamen-nuzky-papir.deps.json
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\bin\Debug\net9.0\program015-kamen-nuzky-papir.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\bin\Debug\net9.0\program015-kamen-nuzky-papir.dll
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\bin\Debug\net9.0\program015-kamen-nuzky-papir.pdb
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.dll
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\refint\program015-kamen-nuzky-papir.dll
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.pdb
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\program015-kamen-nuzky-papir.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-sk-is-2025-sk2\IS-Programy\program015-kamen-nuzky-papir\obj\Debug\net9.0\ref\program015-kamen-nuzky-papir.dll

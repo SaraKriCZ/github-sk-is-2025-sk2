@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program015-kamen-nuzky-papir/1.0.0": {
+        "runtime": {
+          "program015-kamen-nuzky-papir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program015-kamen-nuzky-papir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
